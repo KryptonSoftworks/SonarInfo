@@ -1,5 +1,5 @@
 {
-  "offline": true,
+  "offline": false,
   "version": "0.0.3",
   "rbx_client_version": "version-37cf60402a5648b4"
 }
