@@ -9,7 +9,7 @@ The most powerful free Roblox executor, built from the ground up.
 - [Ben](https://github.com/botdevXD)
 - [Ad](https://github.com/ad-devlpr)
 - [Snowfall](https://github.com/snoowfall)
-
+- [HexDev](https://github.com/unknownamd)
 
 ## Installation
 
