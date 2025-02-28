@@ -1,7 +1,7 @@
 {
   "offline": false,
-  "version": "0.2.4",
-  "rbx_client_version": "version-302fe31805ab4542",
+  "version": "0.2.5",
+  "rbx_client_version": "version-67acd0f240534e7b",
   "bootstrapper_ver": "0.1.9",
   "updater_version": "0.3"
 }
