@@ -1,5 +1,5 @@
 {
-  "offline": false,
+  "offline": true,
   "version": "0.2.8",
   "rbx_client_version": "version-bef193a8f3d14d3c",
   "bootstrapper_ver": "0.1.9",
