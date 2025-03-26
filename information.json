@@ -1,7 +1,7 @@
 {
   "offline": false,
-  "version": "0.2.9",
-  "rbx_client_version": "version-bef193a8f3d14d3c",
+  "version": "0.3.0",
+  "rbx_client_version": "version-5a6b6797f4e04078",
   "bootstrapper_ver": "0.1.9",
   "updater_version": "0.3",
   "Changelog": "Nothing really changed, but v2 is releasing soon!!!"
