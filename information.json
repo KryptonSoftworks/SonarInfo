@@ -1,8 +1,8 @@
 {
   "offline": false,
-  "version": "0.3.3",
-  "rbx_client_version": "version-347f4ac346734391",
+  "version": "0.3.4",
+  "rbx_client_version": "version-c2c9efad42eb44e5",
   "bootstrapper_ver": "0.1.9",
   "updater_version": "0.3",
-  "Changelog": "Added replicatesignal and new injection!"
+  "Changelog": "Fixed issues, better stability, new functions!!!"
 }
